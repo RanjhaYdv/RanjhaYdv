@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RanjhaYdv
+- 👋 Hi, I’m Hitender Yadav
 - 👀 I’m interested in👉👌programming
 - 🌱 I’m currently learning 🐍
 - 📫 How to reach me ranjhaydv@gmail.com
