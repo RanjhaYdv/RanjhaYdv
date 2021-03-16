@@ -2,7 +2,6 @@
 - 👀 I’m interested in👉👌programming
 - 🌱 I’m currently learning 🐍
 - 📫 How to reach me hitenderhy2002@gmail.com
-- 🌐 My website updatedguru.com
 
 <!---
 RanjhaYdv/RanjhaYdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
